@@ -51,7 +51,7 @@ const InterestForm: React.FC = () => {
       animate={{ opacity: 1, y: 0 }}
       transition={{ duration: 0.6 }}
     >
-      <h2>Stay in the know!</h2>
+      <h2 className="heading_new">Stay in the know!</h2>
 
       {fields.map((field) =>
         field === "pin" ? (
