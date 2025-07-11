@@ -91,7 +91,7 @@ const InterestForm: React.FC = () => {
             />
             <label htmlFor={field}>
               {field === "costGuess"
-                ? "Guess the price ($)"
+                ? "Guess the air fryer’s cost ($)"
                 : field.replace(/([A-Z])/g, " $1").replace(/^./, (str) => str.toUpperCase())}
             </label>
           </div>
