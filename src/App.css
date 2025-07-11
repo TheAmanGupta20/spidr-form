@@ -1,0 +1,12 @@
+.section-spidr {
+  position: relative;
+  background: url('../public/spider.png') center/cover no-repeat;
+  overflow: hidden;
+  padding: 80px 20px;
+}
+
+.form-container {
+  position: relative;
+  z-index: 10;
+}
+
