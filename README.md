@@ -4,7 +4,7 @@ Welcome to the **Spidr Design Landing Form** — a sleek, glassmorphic interface
 
 
 
-<img width="1212" height="811" alt="Screenshot 2025-07-11 at 6 55 12 PM" src="https://github.com/user-attachments/assets/1c322bfc-8c95-4392-81df-e1b0dd4f868a" />
+<img width="985" height="783" alt="Screenshot 2025-07-11 at 7 27 26 PM" src="https://github.com/user-attachments/assets/144b58e9-b033-405f-9d3b-d6b5fe1f0a5a" />
 
 
 
